@@ -7,6 +7,9 @@ Dental Pulp Data PreProcessing
 
 ![Correlation](images/correlation_matrix.png)
 
+![Correlation](images/scatterplots_age.png)
+
+![Correlation](images/scatterplots_gender.png)
 
 
 
