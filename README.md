@@ -28,7 +28,7 @@ Furthermore, analysis for each file was conducted for deep analysis.
 
 #### Correlation Matrix for tooth3Mandible.csv:
 
-<img src="images/correlation_matrix_tooth3Mandible.csv.png" alt="Correlation Matrix" width="500" height="400">
+<img src="images/correlation_matrix_tooth3Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 
 #### Correlation Matrix for tooth3Maxilla.csv:
 
