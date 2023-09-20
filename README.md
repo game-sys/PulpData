@@ -20,7 +20,7 @@ Understanding tooth counts can be vital in dental research. We analyze and visua
 
 ### 3. Correlation Analysis
 
-<img src="images/images/correlation_matrix.png" alt="Correlation Matrix" width="800" height="700">
+<img src="images/correlation_matrix.png" alt="Correlation Matrix" width="800" height="700">
 
 Correlation analysis helps identify relationships between variables. We calculate the correlation matrix between numeric features, including "CEJ to Pulp horn (mm)," "CEJ to cusp tip (mm)," and "Tooth-coronal index," and target variables like "Age" and "Gender." This analysis helps us identify which features are most strongly associated with the targets.
 
