@@ -24,6 +24,56 @@ Understanding tooth counts can be vital in dental research. We analyze and visua
 
 Correlation analysis helps identify relationships between variables. We calculate the correlation matrix between numeric features, including "CEJ to Pulp horn (mm)," "CEJ to cusp tip (mm)," and "Tooth-coronal index," and target variables like "Age" and "Gender." This analysis helps us identify which features are most strongly associated with the targets.
 
+Furthermore, analysis for each file was conducted for deep analysis.
+
+#### Correlation Matrix for tooth3Mandible.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth3Mandible.csv.png)
+
+#### Correlation Matrix for tooth3Maxilla.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth3Maxilla.csv.png)
+
+#### Correlation Matrix for tooth4Mandible.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth4Mandible.csv.png)
+
+#### Correlation Matrix for tooth4Maxilla.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth4Maxilla.csv.png)
+
+#### Correlation Matrix for tooth5Mandible.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth5Mandible.csv.png)
+
+#### Correlation Matrix for tooth5Maxilla.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth5Maxilla.csv.png)
+
+#### Correlation Matrix for tooth6Mandible.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth6Mandible.csv.png)
+
+#### Correlation Matrix for tooth6Maxilla.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth6Maxilla.csv.png)
+
+#### Correlation Matrix for tooth7Mandible.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth7Mandible.csv.png)
+
+#### Correlation Matrix for tooth7Maxilla.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth7Maxilla.csv.png)
+
+#### Correlation Matrix for tooth8Mandible.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth8Mandible.csv.png)
+
+#### Correlation Matrix for tooth8Maxilla.csv:
+
+![Correlation Matrix](images/correlation_matrix_tooth8Maxilla.csv.png)
+
 ### 4. Scatterplots
 
 ![Scatterplots - Age](images/scatterplots_age.png)
