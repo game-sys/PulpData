@@ -27,52 +27,29 @@ Correlation analysis helps identify relationships between variables. We calculat
 Furthermore, analysis for each file was conducted for deep analysis.
 
 #### Correlation Matrix for tooth3Mandible.csv:
-
 <img src="images/correlation_matrix_tooth3Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
-
 #### Correlation Matrix for tooth3Maxilla.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth3Maxilla.csv.png)
-
+<img src="images/correlation_matrix_tooth3Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth4Mandible.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth4Mandible.csv.png)
-
+<img src="images/correlation_matrix_tooth4Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth4Maxilla.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth4Maxilla.csv.png)
-
+<img src="images/correlation_matrix_tooth4Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth5Mandible.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth5Mandible.csv.png)
-
+<img src="images/correlation_matrix_tooth5Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth5Maxilla.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth5Maxilla.csv.png)
-
+<img src="images/correlation_matrix_tooth5Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth6Mandible.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth6Mandible.csv.png)
-
+<img src="images/correlation_matrix_tooth6Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth6Maxilla.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth6Maxilla.csv.png)
-
+<img src="images/correlation_matrix_tooth6Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth7Mandible.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth7Mandible.csv.png)
-
+<img src="images/correlation_matrix_tooth7Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth7Maxilla.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth7Maxilla.csv.png)
-
+<img src="images/correlation_matrix_tooth7Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth8Mandible.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth8Mandible.csv.png)
-
+<img src="images/correlation_matrix_tooth8Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 #### Correlation Matrix for tooth8Maxilla.csv:
-
-![Correlation Matrix](images/correlation_matrix_tooth8Maxilla.csv.png)
+<img src="images/correlation_matrix_tooth8Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
 
 ### 4. Scatterplots
 
