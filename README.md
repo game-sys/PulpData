@@ -70,6 +70,22 @@ Furthermore, analysis for each file was conducted for deep analysis.
 
 Scatterplots provide a visual way to assess relationships between numeric features and target variables. We create scatterplots to visualize these relationships, enabling us to detect trends, patterns, and potential outliers in the data. Scatterplots are generated for "CEJ to Pulp horn (mm)," "CEJ to cusp tip (mm)," and "Tooth-coronal index" against both "Age" and "Gender."
 
+### 5. Final Result
+1- Gender classification (Ensemble Model):
+Random Forest Accuracy 1 (tooth5): 0.6589595375722543
+Random Forest Accuracy 2 (tooth6): 0.6589595375722543
+Random Forest Accuracy 3 (tooth7): 0.6242774566473989
+Random Forest Ensemble Accuracy final: 0.6936416184971098
+
+2- Age-group classification (Ensemble Model):
+
+Random Forest Accuracy 1 (tooth5): 0.6069364161849711
+Random Forest Accuracy 2 (tooth6): 0.6011560693641619
+Random Forest Accuracy 3 (tooth7): 0.49710982658959535
+Random Forest Ensemble Accuracy final: 0.7052023121387283
+
+
+
 ## Getting Started
 
 To replicate the analysis or explore the dental pulp data preprocessing techniques, follow these steps:
