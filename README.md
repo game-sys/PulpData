@@ -24,7 +24,7 @@ Understanding tooth counts can be vital in dental research. We analyze and visua
 
 Correlation analysis helps identify relationships between variables. We calculate the correlation matrix between numeric features, including "CEJ to Pulp horn (mm)," "CEJ to cusp tip (mm)," and "Tooth-coronal index," and target variables like "Age" and "Gender." This analysis helps us identify which features are most strongly associated with the targets.
 
-Furthermore, analysis for each file was conducted for deep analysis.
+<!--- Furthermore, analysis for each file was conducted for deep analysis.
 
 #### Correlation Matrix for tooth3Mandible.csv:
 <img src="images/correlation_matrix_tooth3Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
@@ -60,7 +60,7 @@ Furthermore, analysis for each file was conducted for deep analysis.
 <img src="images/correlation_matrix_tooth8Mandible.csv.png" alt="Correlation Matrix" width="800" height="700">
 
 #### Correlation Matrix for tooth8Maxilla.csv:
-<img src="images/correlation_matrix_tooth8Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700">
+<img src="images/correlation_matrix_tooth8Maxilla.csv.png" alt="Correlation Matrix" width="800" height="700"> --->
 
 ### 4. Scatterplots
 
